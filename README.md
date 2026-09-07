@@ -13,3 +13,6 @@
 
 # One Git command I found useful
 - One Git command I found useful is git status as it is very useful to check the current status and we do it often
+
+# What I learned
+- “I am learning how Git and GitHub work together.”
